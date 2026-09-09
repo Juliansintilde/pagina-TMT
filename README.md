@@ -1,6 +1,7 @@
 # Bienvenide a mi primera página en ED
 ## Mi primera página web en clase
 __La página más linda de todas__ 
+La más linda. 
 
 Mi nombre de Julián García y este es el primer experimento de página de 0 en GitHub en Edición digital.
 
